@@ -21,6 +21,7 @@
 /build
 
 # misc
+# Mac folder display settings 
 .DS_Store
 *.pem
 
