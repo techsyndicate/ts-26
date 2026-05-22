@@ -178,7 +178,7 @@ const Navbar = React.memo(() => {
           >
             Events
           </NavLink>
-          <NavLink
+          {/* <NavLink
             href="/tg"
             className={`cursor-pointer hover:text-[#fff] transition-all duration-300 ${
               pathname === "/tg"
@@ -187,6 +187,16 @@ const Navbar = React.memo(() => {
             }`}
           >
             Training Grounds
+          </NavLink> */}
+          <NavLink
+            href="https://ts46.club/intech"
+            className={`cursor-pointer hover:text-[#fff] transition-all duration-300 ${
+              pathname === "/events"
+                ? "text-[#ffffff]"
+                : "text-[rgba(255,255,255,0.35)]"
+            }`}
+          >
+            Intech
           </NavLink>
         </div>
       </div>
