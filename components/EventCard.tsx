@@ -13,12 +13,12 @@ function EventCard(props: EventCardProps) {
       className={`absolute w-[22vw] rounded-lg bg-[#191919] ${props.styles} py-[1.875vw] pl-[1.875vw]`}
     >
       <h1 className="text-[1.7vw] font-medium">{props.title}</h1>
-      {props.title != "Training Grounds" ? (
+      {(props.title === "Training Grounds" || props.title === "inTech") ? (
+        <p className="text-[1.4vw] text-[#16e16e]">{props.date}</p>
+      ) : (
         <p className="text-[1.4vw] text-[rgba(255,255,255,0.6)]">
           {props.date}
         </p>
-      ) : (
-        <p className="text-[1.4vw] text-[#16e16e]">{props.date}</p>
       )}
       {props.link && (
         <button

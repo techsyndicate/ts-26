@@ -89,9 +89,9 @@ const Navbar = React.memo(() => {
               <NavLink href="/events" className="text-[rgba(255,255,255,0.35)]">
                 Events
               </NavLink>
-              <NavLink href="/tg" className="text-[rgba(255,255,255,0.35)]">
+              {/* <NavLink href="/tg" className="text-[rgba(255,255,255,0.35)]">
                 Training Grounds
-              </NavLink>
+              </NavLink> */}
             </div>
           </div>
         </div>
@@ -188,7 +188,7 @@ const Navbar = React.memo(() => {
           >
             Training Grounds
           </NavLink> */}
-          <NavLink
+          {/* <NavLink
             href="https://ts46.club/intech"
             className={`cursor-pointer hover:text-[#fff] transition-all duration-300 ${
               pathname === "/events"
@@ -197,7 +197,7 @@ const Navbar = React.memo(() => {
             }`}
           >
             Intech
-          </NavLink>
+          </NavLink> */}
         </div>
       </div>
     </div>

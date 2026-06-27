@@ -27,20 +27,19 @@ function Events() {
         <div className="mt-[10vw] md:mt-[-5vh] flex flex-col items-center justify-center md:block md:relative blobs">
           {isMobile ? (
             <>
-              <MobileEventCard title="Training Grounds" date="Apr 25 Onwards" link="/tg" />
+              <MobileEventCard title="Training Grounds" date="Apr 25 - May 16" />
               <img src="./events/mobile/line2.svg" alt="" />
-              <MobileEventCard title="inTech" date="TBD - TBD" />
+              <MobileEventCard title="inTech" date="Jun 1 - Jun 22" />
               <img src="./events/mobile/line2.svg" alt="" />
-              <MobileEventCard title="Robotronics" date="TBD - TBD" />
+              <MobileEventCard title="Robotronics" date="Coming Soon!" />
               <div className="w-[100%] h-[12vw]"></div>
             </>
           ) : (
             <>
               <EventCard
                 title="Training Grounds"
-                date="Apr 25 Onwards"
+                date="Apr 25 - May 16"
                 styles="top-[9vw] left-[26.5vw]"
-                link="/tg"
               />
               <img
                 className="absolute top-[14.625vw] w-[17.3vw] left-[48.5vw]"
@@ -49,7 +48,7 @@ function Events() {
               />
               <EventCard
                 title="inTech"
-                date="TBD - TBD"
+                date="Jun 1 - Jun 22"
                 styles="top-[28.8vw] right-[26.5vw]"
               />
               <img
@@ -59,7 +58,7 @@ function Events() {
               />
               <EventCard
                 title="Robotronics"
-                date="TBD - TBD"
+                date="Coming Soon!"
                 styles="top-[46.55vw] left-[26.5vw]"
               />
               <div className="absolute top-[51.55vw] left-[26.5vw] w-[22vw] h-[4.5vw] mt-[2.5vw]"></div>
