@@ -15,6 +15,7 @@ import {
   faDribbble,
   faBehance,
   faSoundcloud,
+  faDiscord,
 } from "@fortawesome/free-brands-svg-icons";
 import { faFlag, faEnvelope, faGlobe } from "@fortawesome/free-solid-svg-icons";
 
@@ -83,6 +84,8 @@ const MemberCard: React.FC<MemberCardProps> = ({
             ? faBehance
             : icon.includes("soundcloude")
             ? faSoundcloud
+            : icon.includes("discord")
+            ? faDiscord
             : icon.includes("anirudhchaturvedi.me") ||
               icon.includes("aayushgarg.net") ||
               icon.includes("vercel") ||
