@@ -18,7 +18,7 @@ function IntechPage() {
         <Navbar />
         <div className="flex flex-col items-center justify-center mt-[5vh] lg:mt-0 sm:absolute sm:top-1/2 sm:left-1/2 sm:transform sm:-translate-x-1/2 sm:-translate-y-1/2 z-10">
           <h1 className="text-[10.4vw] sm:text-[3.4vw]">
-            Robotronics <span className="text-[#16e16e]">'25</span>
+            Robotronics <span className="text-[#16e16e]">'26</span>
           </h1>
           <div className="flex flex-row items-center justify-center mt-[3vw] sm:mt-[1.5vw] gap-[2vw] sm:gap-[0.5vw]">
             <button
@@ -39,7 +39,7 @@ function IntechPage() {
             </button>
             <button
               onClick={() => {
-                window.open("https://ts46.club/server", "_blank");
+                window.open("https://ts46.club/discord", "_blank");
               }}
               className="cursor-pointer mr-[0.75vw] bg-[#161c17] rounded-[100vw] w-[15vw] sm:w-[4vw] h-[15vw] sm:h-[4vw] flex items-center justify-center"
             >
@@ -69,9 +69,9 @@ function IntechPage() {
             </button>
           </div>
           <p className="w-[75vw] sm:w-[45vw] text-center mt-[8vw] sm:mt-[2vw] text-[4vw] md:text-[1vw]">
-            Robotronics '25, is the thirteenth edition of our annual inter-school tech fest
+            Robotronics '26, is the fourteenth edition of our annual inter-school tech fest
             will take place from{" "}
-            <span className="text-[#16e16e]">August 8, 2025 to August 19, 2025</span>. This year it
+            <span className="text-[#16e16e]">August 8, 2026</span> to <span className="text-[#16e16e]">August 19, 2026</span>. This year it
             shall comprise of <span className="text-[#16e16e]">16 events</span>{" "}
             across different domains in the field of technology. There will be one
             school crowned as {" "}
@@ -79,12 +79,20 @@ function IntechPage() {
             after taking into consideration all events.
           </p>
           <button
-            className="mt-[5vw] lg:mt-[1vw] text-[#ccc] text-[5vw] md:text-[1vw] cursor-pointer"
             onClick={() => {
               window.open("https://ts46.club/guide", "_blank");
             }}
+            className="cursor-pointer bg-[#161c17] px-[7vw] sm:px-[2vw] h-[14vw] sm:h-[3vw] rounded-[100vw] flex items-center justify-between gap-[2vw] sm:gap-[0.5vw] mr-[0.75vw] sm:mr-[1.5vw] mt-[2vh]"
           >
-            VIEW GUIDE
+            View Guide
+            <Image
+                src="/rightArrow.png"
+                className="text-[1.5vw] sm:h-[0.9vw] h-[3vw] w-[3.2vw] sm:w-[0.9vw]"
+                alt=""
+                sizes="100vw"
+                height={0}
+                width={0}
+              />
           </button>
         </div>
         <Image
