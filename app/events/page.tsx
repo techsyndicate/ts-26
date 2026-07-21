@@ -31,7 +31,7 @@ function Events() {
               <img src="./events/mobile/line2.svg" alt="" />
               <MobileEventCard title="inTech" date="Jun 1 - Jun 22" />
               <img src="./events/mobile/line2.svg" alt="" />
-              <MobileEventCard title="Robotronics" date="Coming Soon!" />
+              <MobileEventCard title="Robotronics" date="Aug 8 - Aug 19" />
               <div className="w-[100%] h-[12vw]"></div>
             </>
           ) : (
@@ -58,7 +58,7 @@ function Events() {
               />
               <EventCard
                 title="Robotronics"
-                date="Coming Soon!"
+                date="Aug 8 - Aug 19"
                 styles="top-[46.55vw] left-[26.5vw]"
               />
               <div className="absolute top-[51.55vw] left-[26.5vw] w-[22vw] h-[4.5vw] mt-[2.5vw]"></div>
