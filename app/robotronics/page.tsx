@@ -72,7 +72,7 @@ function IntechPage() {
             Robotronics '26, is the fourteenth edition of our annual inter-school tech fest
             will take place from{" "}
             <span className="text-[#16e16e]">August 8, 2026</span> to <span className="text-[#16e16e]">August 19, 2026</span>. This year it
-            shall comprise of <span className="text-[#16e16e]">16 events</span>{" "}
+            shall comprise of <span className="text-[#16e16e]">18 events</span>{" "}
             across different domains in the field of technology. There will be one
             school crowned as {" "}
             <span className="text-[#16e16e]">the overall winner</span>,
