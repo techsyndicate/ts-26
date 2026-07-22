@@ -18,16 +18,21 @@ function Events() {
       <div className="h-max">
         <Navbar />
         <div className="flex flex-col items-center justify-center">
-          <h1 className="text-[10vw] md:text-[3vw] font-light mt-[5vh] md:mt-[10vh]">EVENTS</h1>
+          <h1 className="text-[10vw] md:text-[3vw] font-light mt-[5vh] md:mt-[10vh]">
+            EVENTS
+          </h1>
           <p className="text-[4vw] md:text-[1vw] font-light text-[rgba(255,255,255,0.65)] text-center w-[75vw] md:w-[35vw] mt-[5vw] md:mt-[2vh]">
-            A timeline showcasing the different events and activities
-            organized by Tech Syndicate over the academic year.
+            A timeline showcasing the different events and activities organized
+            by Tech Syndicate over the academic year.
           </p>
         </div>
         <div className="mt-[10vw] md:mt-[-5vh] flex flex-col items-center justify-center md:block md:relative blobs">
           {isMobile ? (
             <>
-              <MobileEventCard title="Training Grounds" date="Apr 25 - May 16" />
+              <MobileEventCard
+                title="Training Grounds"
+                date="Apr 25 - May 16"
+              />
               <img src="./events/mobile/line2.svg" alt="" />
               <MobileEventCard title="inTech" date="Jun 1 - Jun 22" />
               <img src="./events/mobile/line2.svg" alt="" />
@@ -40,6 +45,7 @@ function Events() {
                 title="Training Grounds"
                 date="Apr 25 - May 16"
                 styles="top-[9vw] left-[26.5vw]"
+                type="past"
               />
               <img
                 className="absolute top-[14.625vw] w-[17.3vw] left-[48.5vw]"
@@ -50,6 +56,7 @@ function Events() {
                 title="inTech"
                 date="Jun 1 - Jun 22"
                 styles="top-[28.8vw] right-[26.5vw]"
+                type="past"
               />
               <img
                 className="absolute top-[31.625vw] w-[17.3vw] left-[34.2vw]"
@@ -60,6 +67,7 @@ function Events() {
                 title="Robotronics"
                 date="Aug 8 - Aug 19"
                 styles="top-[46.55vw] left-[26.5vw]"
+                type="upcoming"
               />
               <div className="absolute top-[51.55vw] left-[26.5vw] w-[22vw] h-[4.5vw] mt-[2.5vw]"></div>
             </>

@@ -5,17 +5,19 @@ interface EventCardProps {
   date: string;
   link?: string;
   styles?: string;
+  type?: "past" | "upcoming";
 }
 
 function EventCard(props: EventCardProps) {
   return (
     <div
-      className={`absolute w-[22vw] rounded-lg bg-[#191919] ${props.styles} py-[1.875vw] pl-[1.875vw]`}
+      className={`absolute w-[22vw] rounded-lg bg-[#191919] ${props.styles} py-[1.875vw] pl-[1.875vw] z-30`}
     >
       <h1 className="text-[1.7vw] font-medium">{props.title}</h1>
-      {(props.title === "Training Grounds" || props.title === "inTech" || props.title === "Robotronics") ? (
+      {props.type === "upcoming" && (
         <p className="text-[1.4vw] text-[#16e16e]">{props.date}</p>
-      ) : (
+      )}
+      {props.type === "past" && (
         <p className="text-[1.4vw] text-[rgba(255,255,255,0.6)]">
           {props.date}
         </p>
