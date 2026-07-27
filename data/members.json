@@ -58,7 +58,7 @@
     "name": "Ayush Sharma",
     "pfp": "/pics/ayush_sharma.webp",
     "role": "Core",
-    "socials": [  
+    "socials": [
       "https://open.spotify.com/user/31toavg24xcf7rmgo75ndkbtoc5e?si=c7effeb6c2cd48f2",
       "https://www.youtube.com/@ayusharma2009/",
       "https://www.linkedin.com/in/ayush-sharma2009/",
@@ -74,17 +74,6 @@
       "https://open.spotify.com/user/qi2v21fi9hndpzxkcrujpldka?si=c191a4979ec74066",
       "https://www.instagram.com/kat.4.u/",
       "https://www.youtube.com/@kat_venky"
-    ]
-  },
-  {
-    "name": "Kanishk Verma",
-    "pfp": "https://www.dropbox.com/scl/fi/zemagrw37jbyiu063zvyr/IMG-20260330-WA0047.jpg?rlkey=u2nh2svdr4b16lc7y8yviulv4&st=24sorpm3&raw=1",
-    "role": "Core",
-    "socials": [
-      "https://linktr.ee/kanishk14v",
-      "https://www.linkedin.com/in/kanishk-verma-488699279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "https://open.spotify.com/user/31fakczt2tr5c7kxfwtpivgxtlxe?si=rQcxIyzMS62KGk9YQbL4TA",
-      "https://youtube.com/@kanishk14v?si=zs2yWMIHx3aBri9a"
     ]
   },
   {
@@ -168,6 +157,17 @@
       "https://open.spotify.com/user/w443w4mluzrxuvjqd2014fgt4",
       "https://www.instagram.com/arv.ifrr/",
       "https://github.com/AaravJuneja"
+    ]
+  },
+  {
+    "name": "Kanishk Verma",
+    "pfp": "https://www.dropbox.com/scl/fi/zemagrw37jbyiu063zvyr/IMG-20260330-WA0047.jpg?rlkey=u2nh2svdr4b16lc7y8yviulv4&st=24sorpm3&raw=1",
+    "role": "Member",
+    "socials": [
+      "https://linktr.ee/kanishk14v",
+      "https://www.linkedin.com/in/kanishk-verma-488699279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "https://open.spotify.com/user/31fakczt2tr5c7kxfwtpivgxtlxe?si=rQcxIyzMS62KGk9YQbL4TA",
+      "https://youtube.com/@kanishk14v?si=zs2yWMIHx3aBri9a"
     ]
   },
   {
