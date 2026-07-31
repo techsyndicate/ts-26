@@ -16,6 +16,7 @@ import {
   faBehance,
   faSoundcloud,
   faDiscord,
+  faLetterboxd
 } from "@fortawesome/free-brands-svg-icons";
 import { faFlag, faEnvelope, faGlobe } from "@fortawesome/free-solid-svg-icons";
 
@@ -56,6 +57,8 @@ const MemberCard: React.FC<MemberCardProps> = ({
         {socialIcons.map((icon, index) => {
           const iconDefinition = icon.includes("github")
             ? faGithub
+            : icon.includes("boxd")
+            ? faLetterboxd
             : icon.includes("linkedin")
             ? faLinkedin
             : icon.includes("spotify")
