@@ -6,8 +6,8 @@
     "socials": [
       "https://spotify.link/uqH9ei9h5Db",
       "https://www.instagram.com/jai_dugal/",
-      "mailto:jaidugal123@gmail.com",
-      "https://linktr.ee/LagoonLe"
+      "https://linktr.ee/LagoonLe",
+      "mailto:jaidugal123@gmail.com"
     ]
   },
   {
@@ -23,10 +23,10 @@
   },
   {
     "name": "Naitik Agarwal",
-    "pfp": "https://www.dropbox.com/scl/fi/yirrgv7i3n4ecapvm6fvh/tuktuk.jpg?rlkey=fcmbch3314z833x824xsuu412&st=gdkf6faq&raw=1",
+    "pfp": "https://www.dropbox.com/scl/fi/s73th4rzbje4gzufpxrun/naitik_agarwal.jpeg?rlkey=nu4fehxcglp3gu66ogzbqp33o&st=r2lz9fgi&raw=1",
     "role": "Secretary",
     "socials": [
-      "https://open.spotify.com/user/zsrce5b46sjn303d0yf6344lx?si=11f65b34b42e4c0a",
+      "https://open.spotify.com/user/zsrce5b46sjn303d0yf6344lx",
       "https://www.youtube.com/@nautuk",
       "https://www.behance.net/naitikagarwal7",
       "https://www.instagram.com/p/CpFu5qItM8O/"
@@ -55,44 +55,25 @@
     ]
   },
   {
+    "name": "Ayush Sharma",
+    "pfp": "/pics/ayush_sharma.webp",
+    "role": "Director",
+    "socials": [
+      "https://www.linkedin.com/in/ayush-sharma2009/",
+      "https://open.spotify.com/user/31toavg24xcf7rmgo75ndkbtoc5e",
+      "https://www.youtube.com/@ayusharma2009",
+      "mailto:sharmayush2066@gmail.com"
+    ]
+  },
+  {
     "name": "Karthik V.",
     "pfp": "https://www.dropbox.com/scl/fi/atv5a5spp8trwcyf90m17/IMG-20260626-WA0012.jpg?rlkey=nkvauxhj3rdxb6nogqtqc667l&st=can809xd&raw=1",
     "role": "Core",
     "socials": [
-      "mailto:karthik.venkateswaran09@gmail.com",
-      "https://open.spotify.com/user/qi2v21fi9hndpzxkcrujpldka?si=c191a4979ec74066",
+      "https://open.spotify.com/user/qi2v21fi9hndpzxkcrujpldka",
       "https://www.instagram.com/kat.4.u/",
-      "https://www.youtube.com/@kat_venky"
-    ]
-  },
-  {
-    "name": "Prisha Bhatia",
-    "role": "Member",
-    "pfp": "/pics/prisha_bhatia.webp",
-    "socials": [
-      "https://github.com/PianoPianist",
-      "https://open.spotify.com/user/31z4mkeivhrm7irpcf5yn2tfks6i?si=_ov6LOzxQJaDfzPSe4bN_g&utm_source=copy-link&nd=1",
-      "https://www.instagram.com/pianopianist.1792",
-      "mailto:prishabhatia.pb@yahoo.com"
-    ]
-  },
-  {
-    "name": "Avisha Garg",
-    "pfp": "/pics/avisha_garg.webp",
-    "role": "Member",
-    "socials": [
-      "https://open.spotify.com/user/8hp997t0s5bghesrn6ncjm2c6?si=mfZFMLrHRmSlwIs6fVpbpA",
-      "mailto:avisha.garg28@gmail.com"
-    ]
-  },
-  {
-    "name": "Arnav Verma",
-    "pfp": "https://www.dropbox.com/scl/fi/68xejkubvykvqgtq9u28u/WhatsApp-Image-2026-06-26-at-3.21.04-PM-1.jpg?rlkey=x54wnibzbe0vwcvhc0quno9ni&st=qhhu4njw&raw=1",
-    "role": "Member",
-    "socials": [
-      "https://open.spotify.com/user/315qelsyyyzebaftzi7jd5hj4h4e?si=9b465aa98a4e496d",
-      "mailto:arnavverma304@gmail.com",
-      "https://github.com/Arnavvermacopy"
+      "https://www.youtube.com/@kat_venky",
+      "mailto:karthik.venkateswaran09@gmail.com"
     ]
   },
   {
@@ -101,31 +82,8 @@
     "role": "Member",
     "socials": [
       "https://www.instagram.com/notmoksh2189/",
-      "mailto:mokshagarwal8@gmail.com",
-      "https://open.spotify.com/user/31lusyhbqhimcw2pl4pwi3fly5dq?si=9a82f6c2a0594b4e"
-    ]
-  },
-  {
-    "name": "Kushagra Goel",
-    "pfp": "/pics/kushagra_goel.webp",
-    "role": "Member",
-    "socials": [
-      "mailto:goel.kush11@gmail.com",
-      "https://www.linkedin.com/in/kushagragoel11/",
-      "https://github.com/Kushagra-goel-1011",
-      "https://www.youtube.com/@KARdS-1011",
-      "https://www.instagram.com/kushagrakards?igsh=aHhzZGl3dGVmdGQz&utm_source=qr",
-      "https://open.spotify.com/user/31t24mw52cjjpcu4senzd74pkkzu?si=_0A2aVMTRd6FNJrcL0cTWw"
-    ]
-  },
-  {
-    "name": "Yash Pathak",
-    "pfp": "/pics/yash_pathak.webp",
-    "role": "Member",
-    "socials": [
-      "mailto:iamypgaming@gmail.com",
-      "https://www.instagram.com/yash.pathakk",
-      "https://open.spotify.com/user/4ra461az8vg9c3f9984ousshm?si=49fe08b5e3da4b49"
+      "https://open.spotify.com/user/31lusyhbqhimcw2pl4pwi3fly5dq",
+      "mailto:mokshagarwal8@gmail.com"
     ]
   },
   {
@@ -133,8 +91,8 @@
     "pfp": "/pics/disha_dhir.webp",
     "role": "Member",
     "socials": [
-      "mailto:dishadhir0@gmail.com",
-      "https://open.spotify.com/user/31r3vjolazq7wjkwo5gdv4y4u5ci?si=IzBm3c1VQz2cuHG43V1pLA"
+      "https://open.spotify.com/user/31r3vjolazq7wjkwo5gdv4y4u5ci",
+      "mailto:dishadhir0@gmail.com"
     ]
   },
   {
@@ -149,37 +107,6 @@
     ]
   },
   {
-    "name": "Kanishk Verma",
-    "pfp": "https://www.dropbox.com/scl/fi/zemagrw37jbyiu063zvyr/IMG-20260330-WA0047.jpg?rlkey=u2nh2svdr4b16lc7y8yviulv4&st=24sorpm3&raw=1",
-    "role": "Member",
-    "socials": [
-      "https://linktr.ee/kanishk14v",
-      "https://www.linkedin.com/in/kanishk-verma-488699279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "https://open.spotify.com/user/31fakczt2tr5c7kxfwtpivgxtlxe?si=rQcxIyzMS62KGk9YQbL4TA",
-      "https://youtube.com/@kanishk14v?si=zs2yWMIHx3aBri9a"
-    ]
-  },
-  {
-    "name": "Jinisha Yadav",
-    "pfp": "/pics/jinisha_yadav.webp",
-    "role": "Member",
-    "socials": [
-      "https://www.behance.net/jinishayadav",
-      "https://www.linkedin.com/in/jinisha-yadav/",
-      "https://open.spotify.com/user/314x5ugybiwqlt77qpyapzfqya6a?si=mNVJY4UCQPOOZ6YquPouZQ&pi=xdYFg92zTnuff"
-    ]
-  },
-  {
-    "name": "Dhairya Gandhi",
-    "pfp": "/pics/dhairya_gandhi.webp",
-    "role": "Member",
-    "socials": [
-      "mailto:gandhi.dhairya2009@gmail.com",
-      "https://www.instagram.com/dhairya.gandhi_/",
-      "https://open.spotify.com/user/31tox5adbhwq4qs25o4koptvdt6u?si=e8935fc53d564238"
-    ]
-  },
-  {
     "name": "Chirayu Kataria",
     "pfp": "https://www.dropbox.com/scl/fi/6fqidsep5z8149hz5nb1z/WhatsApp-Image-2026-06-26-at-2.24.54-PM.jpeg?rlkey=rx7knrnbrqbpzz08041u9pq7j&st=v7worggd&raw=1",
     "role": "Member",
@@ -191,53 +118,53 @@
     ]
   },
   {
-    "name": "Yatharth Meharwal",
-    "pfp": "https://www.dropbox.com/scl/fi/792g3b2vtpaqmncrz4t4d/Screenshot_20260624_012243_Gallery.jpg?rlkey=ausu3rjox2raz9krymsjhgevk&st=9aks44iw&raw=1",
+    "name": "Prisha Bhatia",
     "role": "Member",
+    "pfp": "/pics/prisha_bhatia.webp",
     "socials": [
-      "https://open.spotify.com/user/31l6dcd4s5dkokaykb6wdwykrqk4?si=CTyupva6T6eKDnFwbCQJHQ",
-      "https://www.instagram.com/clmeyatharth?igsh=ZDgzbmFqYm1lamU1"
+      "https://github.com/PianoPianist",
+      "https://open.spotify.com/user/31z4mkeivhrm7irpcf5yn2tfks6i",
+      "mailto:prishabhatia.pb@yahoo.com"
     ]
   },
   {
-    "name": "Shashwat Singh",
-    "pfp": "/pics/shashwat_singh.jpg",
+    "name": "Yash Pathak",
+    "pfp": "/pics/yash_pathak.webp",
     "role": "Member",
     "socials": [
-      "https://www.instagram.com/helloshashwat",
-      "mailto:darkstarultra87@gmail.com",
-      "https://discord.com/users/1291437469396631562",
-      "https://open.spotify.com/user/3157idcs4h7ykk6mo2r7prr4arva"
+      "https://www.instagram.com/yash.pathakk/",
+      "https://open.spotify.com/user/4ra461az8vg9c3f9984ousshm",
+      "mailto:iamypgaming@gmail.com"
     ]
   },
   {
-    "name": "Manik Sharma",
-    "pfp": "https://www.dropbox.com/scl/fi/fvbtlar93jepikrlcj3jo/IMG_20251009_143437.jpg?rlkey=2su816o2mi2yrx3io2q6x31bq&st=u74lamfx&raw=1",
+    "name": "Dhairya Gandhi",
+    "pfp": "/pics/dhairya_gandhi.webp",
     "role": "Member",
     "socials": [
-      "mailto:m4.sh@tuta.io",
-      "https://links.maniksharma.xyz/",
-      "https://discord.com/users/1117744333924356126",
-      "https://www.linkedin.com/in/manik-sharma-30b4a9419/"
+      "mailto:gandhi.dhairya2009@gmail.com",
+      "https://www.instagram.com/dhairya.gandhi_/",
+      "https://open.spotify.com/user/31tox5adbhwq4qs25o4koptvdt6u"
     ]
   },
   {
-    "name": "Navya Bansal",
-    "pfp": "https://www.dropbox.com/scl/fi/3ja4d2x1q50i11olq0joa/navya.bansal.png?rlkey=b3ihivk207byc2l4a4ws5jx2w&st=x521pfal&raw=1",
+    "name": "Avisha Garg",
+    "pfp": "/pics/avisha_garg.webp",
     "role": "Member",
     "socials": [
-      "mailto:navyabansal438@gmail.com",
-      "https://open.spotify.com/user/31erkbgb2p7rt57quenness6fjhina"
+      "https://open.spotify.com/user/8hp997t0s5bghesrn6ncjm2c6",
+      "mailto:avisha.garg28@gmail.com"
     ]
   },
   {
-    "name": "Vaanya Bhasin",
-    "pfp": "https://www.dropbox.com/scl/fi/b0kvvuc46uka5fwn9bnnt/IMG_5806.jpg?rlkey=8rfz4onsx5wk6tvaadzsykcif&st=5uf3vd77&raw=1",
+    "name": "Kanishk Verma",
+    "pfp": "https://www.dropbox.com/scl/fi/zemagrw37jbyiu063zvyr/IMG-20260330-WA0047.jpg?rlkey=u2nh2svdr4b16lc7y8yviulv4&st=24sorpm3&raw=1",
     "role": "Member",
     "socials": [
-      "https://open.spotify.com/user/31zkb37vgesq4bzjeaoafprp4gr4?si=f2982e2fe8f24044",
-      "mailto:vaanya.bhasin.2024@gmail.com",
-      "https://discord.com/users/1497243647802998794"
+      "https://linktr.ee/kanishk14v",
+      "https://www.linkedin.com/in/kanishk-verma-488699279/",
+      "https://open.spotify.com/user/31fakczt2tr5c7kxfwtpivgxtlxe",
+      "https://youtube.com/@kanishk14v"
     ]
   },
   {
@@ -245,9 +172,9 @@
     "pfp": "https://www.dropbox.com/scl/fi/gfg7w8szduewtxnw8p6hr/WhatsApp-Image-2026-06-21-at-3.52.36-PM.jpeg?rlkey=5omt66lz0g4a0rr04ehoh9vqw&st=68d0ifzp&raw=1",
     "role": "Member",
     "socials": [
-      "https://open.spotify.com/user/nla0v89kvqq1wsxrrbgbcmcmr?si=e457c1c4be3f4a8b",
-      "mailto:aaravgupta25752@gmail.com",
-      "https://www.instagram.com/aarav_gupta257/"
+      "https://open.spotify.com/user/nla0v89kvqq1wsxrrbgbcmcmr",
+      "https://www.instagram.com/aarav_gupta257/",
+      "mailto:aaravgupta25752@gmail.com"
     ]
   },
   {
@@ -255,47 +182,60 @@
     "pfp": "https://www.dropbox.com/scl/fi/nqyjq1882bvw7o4m45bqq/e2bdd1fd-a6b3-4f8e-b3f3-621c1c8465de.jpeg?rlkey=sym1ifl5xx0fc5mybc8kbw6pc&st=aofo60iu&raw=1",
     "role": "Member",
     "socials": [
-      "https://www.instagram.com/paarth.55?igsh=cWYwOHBqNmc3bHBz",
-      "https://open.spotify.com/user/31gutlosxikhj24g6nuy4dxy5j24?si=tDAdru3YS92T9k5fYyk-sQ",
+      "https://www.instagram.com/paarth.55/",
+      "https://open.spotify.com/user/31gutlosxikhj24g6nuy4dxy5j24",
       "mailto:paarthumesh1234@gmail.com"
     ]
   },
   {
-    "name": "Medhansh Jain",
-    "pfp": "https://www.dropbox.com/scl/fi/k749yq659egle03c5ioy3/Photo-26-06-26-3-12-30-PM.jpg?rlkey=w6adt87gqistrtvz5i71w2hi1&st=1o0q8g5j&raw=1",
-    "role": "Member",
+    "name": "Kanishk Jain",
+    "pfp": "https://www.dropbox.com/scl/fi/l19fygyea9w9uywkic11y/kanishk_jain.jpg?rlkey=fomdyn22wfp0sgq6kqijv3x5i&st=afe2fd5a&raw=1",
+    "role": "Trainee",
     "socials": [
-      "mailto:Jainmedhansh02@gmail.com",
-      "https://www.instagram.com/muzicinsoul?igsh=MWF3ZHZ0cWhpcWt6NQ=="
+      "https://discord.com/users/1494715945539731496",
+      "https://github.com/Kanishk-JA2011",
+      "https://www.youtube.com/@kanishkjain-enjoy",
+      "mailto:jkanishk239@gmail.com"
     ]
   },
   {
-    "name": "Shivpriya Bhargava",
-    "pfp": "https://www.dropbox.com/scl/fi/8ntgkexbixxua9psmfbbw/853e4f44-30ac-4d57-b00a-a5f68591a36f.jpeg?rlkey=9lkymikp0k8l1uy2d3t2vlifi&st=doz12fe0&raw=1",
+    "name": "Yatharth Meharwal",
+    "pfp": "https://www.dropbox.com/scl/fi/792g3b2vtpaqmncrz4t4d/Screenshot_20260624_012243_Gallery.jpg?rlkey=ausu3rjox2raz9krymsjhgevk&st=9aks44iw&raw=1",
     "role": "Member",
     "socials": [
-      "https://open.spotify.com/user/31o7y4ea4zpnbxk6rxaqrghsdhtq?si=-9VFeYOjSw2HVsw9RcXPDA",
-      "mailto:shivpriya.bhargava@gmail.com",
-      "https://youtube.com/@shivpriyabhargava?si=Q8TcBzUugOogJ-Zf"
+      "https://open.spotify.com/user/31l6dcd4s5dkokaykb6wdwykrqk4",
+      "https://www.instagram.com/clmeyatharth/"
     ]
   },
   {
-    "name": "Bhuvi Khandelwal",
-    "pfp": "https://www.dropbox.com/scl/fi/azzv2rphz1j1j48u2u89k/Bhuvi-K.jpeg?rlkey=0g3kbs49qskohbgfjddfsxsd3&st=zdf8appd&raw=1",
+    "name": "Arnav Verma",
+    "pfp": "https://www.dropbox.com/scl/fi/68xejkubvykvqgtq9u28u/WhatsApp-Image-2026-06-26-at-3.21.04-PM-1.jpg?rlkey=x54wnibzbe0vwcvhc0quno9ni&st=qhhu4njw&raw=1",
     "role": "Member",
     "socials": [
-      "https://open.spotify.com/user/31wt2hkyvfvxsxo6nmbg6eltyngm?si=74e523abfbb246fc",
-      "mailto:amazingbhuvi@gmail.com"
+      "https://open.spotify.com/user/315qelsyyyzebaftzi7jd5hj4h4e",
+      "https://github.com/Arnavvermacopy",
+      "mailto:arnavverma304@gmail.com"
     ]
   },
   {
-    "name": "Samar Sachan",
-    "pfp": "https://www.dropbox.com/scl/fi/uhlkiq1g4490uoclcq7kw/WAOOOOO-1.jpeg?rlkey=5bufkqvaxyx0jhunenz2m6jhn&st=8nw35iuh&raw=1",
+    "name": "Kushagra Goel",
+    "pfp": "/pics/kushagra_goel.webp",
     "role": "Member",
     "socials": [
-      "mailto:DarkMagic26411@gmail.com",
-      "https://www.instagram.com/samar._.hmmmmmm/",
-      "https://discord.com/users/940596536293867521"
+      "https://www.linkedin.com/in/kushagragoel11/",
+      "https://github.com/Kushagra-goel-1011",
+      "https://www.instagram.com/kushagrakards/",
+      "https://open.spotify.com/user/31t24mw52cjjpcu4senzd74pkkzu"
+    ]
+  },
+  {
+    "name": "Jinisha Yadav",
+    "pfp": "/pics/jinisha_yadav.webp",
+    "role": "Member",
+    "socials": [
+      "https://www.behance.net/jinishayadav",
+      "https://www.linkedin.com/in/jinisha-yadav/",
+      "https://open.spotify.com/user/314x5ugybiwqlt77qpyapzfqya6a"
     ]
   },
   {
@@ -306,6 +246,160 @@
       "https://www.instagram.com/callme.ridhima/",
       "https://www.behance.net/ridhimaraghav/",
       "https://www.linkedin.com/in/ridhima-raghav-a960932b2/"
+    ]
+  },
+  {
+    "name": "Samar Sachan",
+    "pfp": "https://www.dropbox.com/scl/fi/i8ce8aedg6ab7kqw7dr49/samar_sachan.png?rlkey=wed02ty6m5123f01xy3swl6za&st=5ir8akgd&raw=1",
+    "role": "Member",
+    "socials": [
+      "https://www.instagram.com/samar._.hmmmmmm/",
+      "https://discord.com/users/940596536293867521",
+      "mailto:DarkMagic26411@gmail.com"
+    ]
+  },
+  {
+    "name": "Navya Jain",
+    "pfp": "https://www.dropbox.com/scl/fi/ulwyajxdv3gk6agi3m8sj/navya_jain.jpg?rlkey=zu367rnh3kb3z0w1vd01tf4vb&st=gzlxuh11&raw=1",
+    "role": "Trainee",
+    "socials": [
+      "https://www.instagram.com/navyaa_jainn123/",
+      "mailto:navya.jain.jdr@gmail.com"
+    ]
+  },
+  {
+    "name": "Hitaarth Mehta",
+    "pfp": "https://www.dropbox.com/scl/fi/pfs70zn1s3y8hnhbe4s05/hitaarth_mehta.jpg?rlkey=ac9zgqbh6l3x49dz17pqm3aao&st=ywgw3hjz&raw=1",
+    "role": "Trainee",
+    "socials": [
+      "https://discord.com/users/1299405200913731718",
+      "https://youtube.com/@hitaarth2",
+      "mailto:iamhitaarth@gmail.com"
+    ]
+  },
+  {
+    "name": "Ainesh Sharma",
+    "pfp": "https://www.dropbox.com/scl/fi/52a9auzcyc40checdlowg/ainesh_sharma.jpg?rlkey=qn2r6oiua82nemx1mrqtioimg&st=3gqxjz6r&raw=1",
+    "role": "Trainee",
+    "socials": [
+      "https://open.spotify.com/user/31epfttjaq4lry3evvlbu35xyzt4?si=5c0d87c89ba7413d",
+      "mailto:progamer01639@gmail.com"
+    ]
+  },
+  {
+    "name": "Bhuvi Khandelwal",
+    "pfp": "https://www.dropbox.com/scl/fi/azzv2rphz1j1j48u2u89k/Bhuvi-K.jpeg?rlkey=0g3kbs49qskohbgfjddfsxsd3&st=zdf8appd&raw=1",
+    "role": "Member",
+    "socials": [
+      "https://open.spotify.com/user/31wt2hkyvfvxsxo6nmbg6eltyngm",
+      "mailto:amazingbhuvi@gmail.com"
+    ]
+  },
+  {
+    "name": "Vaanya Bhasin",
+    "pfp": "https://www.dropbox.com/scl/fi/b0kvvuc46uka5fwn9bnnt/IMG_5806.jpg?rlkey=8rfz4onsx5wk6tvaadzsykcif&st=5uf3vd77&raw=1",
+    "role": "Member",
+    "socials": [
+      "https://open.spotify.com/user/31zkb37vgesq4bzjeaoafprp4gr4",
+      "https://discord.com/users/1497243647802998794",
+      "mailto:vaanya.bhasin.2024@gmail.com"
+    ]
+  },
+  {
+    "name": "Shambhavi Vats",
+    "pfp": "https://www.dropbox.com/scl/fi/sqsctziho3zrao0v2h1q5/shambhavi_vats.jpg?rlkey=lbx5kwnxjzqp91mtb35y43805&st=81j7re36&raw=1",
+    "role": "Member",
+    "socials": [
+      "https://open.substack.com/pub/shambhavi242811",
+      "https://open.spotify.com/user/31qdey5bosttwmxbpdbufcadv36e"
+    ]
+  },
+  {
+    "name": "Navya Bansal",
+    "pfp": "https://www.dropbox.com/scl/fi/3ja4d2x1q50i11olq0joa/navya.bansal.png?rlkey=b3ihivk207byc2l4a4ws5jx2w&st=x521pfal&raw=1",
+    "role": "Member",
+    "socials": [
+      "https://open.spotify.com/user/31erkbgb2p7rt57quenness6fjhina",
+      "mailto:navyabansal438@gmail.com"
+    ]
+  },
+  {
+    "name": "Shivpriya Bhargava",
+    "pfp": "https://www.dropbox.com/scl/fi/8ntgkexbixxua9psmfbbw/853e4f44-30ac-4d57-b00a-a5f68591a36f.jpeg?rlkey=9lkymikp0k8l1uy2d3t2vlifi&st=doz12fe0&raw=1",
+    "role": "Member",
+    "socials": [
+      "https://open.spotify.com/user/31o7y4ea4zpnbxk6rxaqrghsdhtq",
+      "https://youtube.com/@shivpriyabhargava",
+      "mailto:shivpriya.bhargava@gmail.com"
+    ]
+  },
+  {
+    "name": "Manik Sharma",
+    "pfp": "https://www.dropbox.com/scl/fi/fvbtlar93jepikrlcj3jo/IMG_20251009_143437.jpg?rlkey=2su816o2mi2yrx3io2q6x31bq&st=u74lamfx&raw=1",
+    "role": "Member",
+    "socials": [
+      "https://maniksharma.xyz/",
+      "https://www.linkedin.com/in/manik-sharma-30b4a9419/",
+      "https://github.com/codewizardmanik",
+      "mailto:m4.sh@tuta.io"
+    ]
+  },
+  {
+    "name": "Skand Jai Ranjan",
+    "pfp": "https://www.dropbox.com/scl/fi/m0i8qjkpqc0b2moyximfj/skand_jai_ranjan.jpeg?rlkey=sbcwfdvr3sd6brnkpeccgcv40&st=9n3kyxs1&raw=1",
+    "role": "Trainee",
+    "socials": [
+      "https://discord.com/users/1372170739230183494",
+      "https://open.spotify.com/user/31psijrioxpktoy2wnpmsvulueyy?si=7c79ac0497af419c ",
+      "https://www.youtube.com/@SkandJaiRanjan-SHRXDERR"
+    ]
+  },
+  {
+    "name": "Shashwat Singh",
+    "pfp": "/pics/shashwat_singh.jpg",
+    "role": "Member",
+    "socials": [
+      "https://www.instagram.com/helloshashwat/",
+      "https://discord.com/users/1291437469396631562",
+      "https://open.spotify.com/user/3157idcs4h7ykk6mo2r7prr4arva",
+      "mailto:darkstarultra87@gmail.com"
+    ]
+  },
+  {
+    "name": "Chirag Khanna",
+    "pfp": "https://www.dropbox.com/scl/fi/33s04pstncvyluv80mbp2/chirag_khanna.jpg?rlkey=qo375unmtoybpcrgm3prlg82y&st=x5obj6ue&raw=1",
+    "role": "Trainee",
+    "socials": [
+      "https://discord.com/users/1514216280452890666",
+      "https://www.behance.net/chiragkhanna10",
+      "https://open.spotify.com/user/31qctacxjj2ommy4plaqbrmjitri",
+      "mailto:chiragkhannna483@gmail.com"
+    ]
+  },
+  {
+    "name": "Medhansh Jain",
+    "pfp": "https://www.dropbox.com/scl/fi/k749yq659egle03c5ioy3/Photo-26-06-26-3-12-30-PM.jpg?rlkey=w6adt87gqistrtvz5i71w2hi1&st=1o0q8g5j&raw=1",
+    "role": "Member",
+    "socials": [
+      "https://www.instagram.com/muzicinsoul/",
+      "https://github.com/site-1alt",
+      "mailto:Jainmedhansh02@gmail.com"
+    ]
+  },
+  {
+    "name": "Sarthak Kundu",
+    "pfp": "https://www.dropbox.com/scl/fi/nad5qgjxp1wyw5bqjkh55/sarthak_kundu.jpeg?rlkey=v16uch2fgqn3bek6v5ki0woue&st=v66bhefb&raw=1",
+    "role": "Member",
+    "socials": [
+      "https://github.com/sarthak76545"
+    ]
+  },
+  {
+    "name": "Saatwik Bhanwala",
+    "pfp": "https://www.dropbox.com/scl/fi/0dkep6f1jdd8ahdhqwjsr/saatwik_bhanwala.jpg?rlkey=b9aj3569d46m5ij2y2pg1t0cs&st=h5p1535x&raw=1",
+    "role": "Trainee",
+    "socials": [
+      "mailto:wik.bhanwala@gmail.com"
     ]
   }
 ]

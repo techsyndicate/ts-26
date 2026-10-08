@@ -67,7 +67,7 @@ function Events() {
                 title="Robotronics"
                 date="Aug 8 - Aug 19"
                 styles="top-[46.55vw] left-[26.5vw]"
-                type="upcoming"
+                type="past"
               />
               <div className="absolute top-[51.55vw] left-[26.5vw] w-[22vw] h-[4.5vw] mt-[2.5vw]"></div>
             </>
